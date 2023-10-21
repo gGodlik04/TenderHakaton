@@ -68,7 +68,7 @@
         <i class="status status-bottom bg-gray-light" />
       </span>
       <time class="text-link help float-right">Yesterday</time>
-      <h6 class="m-0 mb-1">Mike Lewis</h6>
+      <h6 class="m-0 mb-1">Manager</h6>
       <p class="deemphasize text-ellipsis m-0">
         Just ain&apos;t sure about the weekend now. 90% I&apos;ll make it.
       </p>

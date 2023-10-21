@@ -93,7 +93,7 @@ export default {
     return {
       messageStates: MessageStates,
       todayConversations: [{
-        name: 'Chris Gray',
+        name: 'Manager',
         status: 'success',
         lastMessage: 'Hey! What\'s up? So many times since we',
         image: a2,
@@ -112,43 +112,43 @@ export default {
           fromMe: true,
         }],
       }, {
-        name: 'Jamey Brownlow',
+        name: 'Manager',
         status: 'gray-light',
         lastMessage: 'Good news coming tonight. Seems they agreed to proceed',
         image: a1,
       }, {
-        name: 'Livia Walsh',
+        name: 'Manager',
         status: 'danger',
         lastMessage: 'Check out my latest email plz!',
         image: a1,
       }, {
-        name: 'Jaron Fitzroy',
+        name: 'Manager',
         status: 'gray-light',
         lastMessage: 'What about summer break?',
         image: a1,
       }, {
-        name: 'Mike Lewis',
+        name: 'Manager',
         status: 'success',
         lastMessage: 'Just ain\'t sure about the weekend now. 90% I\'ll make it.',
         image: a4,
       }],
       lastWeekConversations: [{
-        name: 'Freda Edison',
+        name: 'Manager',
         status: 'gray-light',
         lastMessage: 'Hey what\'s up? Me and Monica going for a lunch somewhere. Wanna join?',
         image: a6,
       }, {
-        name: 'Livia Walsh',
+        name: 'Manager',
         status: 'success',
         lastMessage: 'Check out my latest email plz!',
         image: a5,
       }, {
-        name: 'Jaron Fitzroy',
+        name: 'Manager',
         status: 'warning',
         lastMessage: 'What about summer break?',
         image: a3,
       }, {
-        name: 'Mike Lewis',
+        name: 'Manager',
         status: 'gray-light',
         lastMessage: 'Just ain\'t sure about the weekend now. 90% I\'ll make it.',
         image: a1,

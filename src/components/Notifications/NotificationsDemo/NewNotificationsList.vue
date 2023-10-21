@@ -29,7 +29,7 @@
       </span>
       <p class="m-0 overflow-hidden">
         1 new user just signed up! Check out
-        &nbsp;<a href="#">Monica Smith</a>'s account.
+        &nbsp;<a href="#">Manager Smith</a>'s account.
         <time class="help-block m-0">
           2 mins ago
         </time>
@@ -62,7 +62,7 @@
         <img class="rounded-circle" src="../../../assets/people/a5.jpg" alt="..." />
       </span>
       <p class="m-0 overflow-hidden">
-        User <a href="#">Jeff</a> registered
+        User <a href="#">Manager</a> registered
         &nbsp;&nbsp;
         <b-button size="xs" variant="success" class="mr-1">Allow</b-button>
         <b-button size="xs" variant="danger">Deny</b-button>
